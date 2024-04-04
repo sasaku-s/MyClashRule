@@ -84,7 +84,7 @@ custom_proxy_group=🇩🇪 德国`select`(DE|德)
 custom_proxy_group=🇮🇳 印度`select`(IN|印度)
 custom_proxy_group=🇫🇷 法国`select`(FR|法|巴黎)
 custom_proxy_group=🇦🇷 阿根廷`select`(阿根廷|Argentina|AR)
-custom_proxy_group=🇹🇷 土耳其`select`(TR|土耳其|土)
+custom_proxy_group=🇹🇷 土耳其`select`(TR|土耳其|土|Turkey)
 custom_proxy_group=🇷🇺 俄罗斯`select`(俄|俄罗斯|RUS|RF)
 ;设置分组标志位
 
